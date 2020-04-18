@@ -23,7 +23,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/web/css/flexslider.css",
+              "src/web/css/form.css",
+              "src/web/css/jquery-ui.css",
+              "src/web/css/memenu.css",
+              "src/web/css/style.css"
             ],
             "scripts": []
           },
